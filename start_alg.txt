@@ -1,0 +1,4 @@
+npm init
+npm i ...
+npm start aiwshop_infobot
+npm i axios
